@@ -4,7 +4,7 @@ Binary classification of sentiment140 data set using LSTM neural network.<br/>
 
 The code classifies the text based on having positive or negative sentiment.<br/>
 The code consits of three major parts:<br/>
-* Data pre-processing (Cleaning, Tokenization, Lemmatization)
+* Data pre-processing (Exploring, Cleaning, Tokenization, Lemmatization)
 * Defining a costum embedding layer (using GloVe embedding)
 * Creating a model, training the model and optimizing it.<br/>
 
